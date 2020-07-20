@@ -1,5 +1,5 @@
 **Hi, World!**
 
-## Github Performance Overall
+#### Github Performance Overall
 
-![github stats](https://github-readme-stats.vercel.app/api?username=fauzan121002&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=hardzal&show_icons=true)
