@@ -1,6 +1,10 @@
 ### Hi! 👋 I'm Rizal.
 
-#### Github Performance Overall
+- 🔭 I’m currently working on Web Development & API Development
+- 🌱 I’m currently learning on Data Engineering and Web Development
+- ⚡ Exicting to contribute on open source projects
+- 🚀 Interesting at Machine Learning and Blockchain
+- 📫 You can contact me at: hadrizal7@gmail.com
 
 <p align="left">
 <a href="https://github.com/hardzal">
