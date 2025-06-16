@@ -5,3 +5,9 @@
 - ⚡ Exicting to contribute on open source projects
 - 🚀 Interesting at Machine Learning, Deep Learning and Web3
 - 📫 You can contact me at: hadrizal7@gmail.com
+
+## Skills
+
+- Frontend: HTML/CSS, Reactjs, Nextjs, javasccript.
+- Backend: Nodejs, golang, python, nestjs, expressjs, laravel, typescript, postgresql, mysql, MongoDB, Redis.
+- Tools: Docker, Git.
