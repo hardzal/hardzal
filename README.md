@@ -52,13 +52,7 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable we
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hardzal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardzal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hardzal&theme=dark)](https://git.io/streak-stats)
 
 ---
 
