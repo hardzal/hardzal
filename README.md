@@ -16,6 +16,15 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable we
 
 ---
 
+<details>
+<summary>📊 GitHub Stats</summary>
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hardzal&theme=dark)](https://git.io/streak-stats)
+
+</details>
+
+---
+
 ## 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -38,12 +47,6 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable we
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hardzal&theme=dark)](https://git.io/streak-stats)
 
 ---
 
